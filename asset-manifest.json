@@ -1,13 +1,13 @@
 {
-  "main.css": "/github.io/musicappdemo/static/css/main.781b43f8.chunk.css",
-  "main.js": "/github.io/musicappdemo/static/js/main.4a9bc881.chunk.js",
-  "main.js.map": "/github.io/musicappdemo/static/js/main.4a9bc881.chunk.js.map",
-  "runtime~main.js": "/github.io/musicappdemo/static/js/runtime~main.b531d8e6.js",
-  "runtime~main.js.map": "/github.io/musicappdemo/static/js/runtime~main.b531d8e6.js.map",
-  "static/js/2.65aa1cca.chunk.js": "/github.io/musicappdemo/static/js/2.65aa1cca.chunk.js",
-  "static/js/2.65aa1cca.chunk.js.map": "/github.io/musicappdemo/static/js/2.65aa1cca.chunk.js.map",
-  "index.html": "/github.io/musicappdemo/index.html",
-  "precache-manifest.35e1323820f3269d17f60e5371229bb7.js": "/github.io/musicappdemo/precache-manifest.35e1323820f3269d17f60e5371229bb7.js",
-  "service-worker.js": "/github.io/musicappdemo/service-worker.js",
-  "static/css/main.781b43f8.chunk.css.map": "/github.io/musicappdemo/static/css/main.781b43f8.chunk.css.map"
+  "main.css": "/musicappdemo/static/css/main.781b43f8.chunk.css",
+  "main.js": "/musicappdemo/static/js/main.dd19b744.chunk.js",
+  "main.js.map": "/musicappdemo/static/js/main.dd19b744.chunk.js.map",
+  "runtime~main.js": "/musicappdemo/static/js/runtime~main.3395cd8b.js",
+  "runtime~main.js.map": "/musicappdemo/static/js/runtime~main.3395cd8b.js.map",
+  "static/js/2.65aa1cca.chunk.js": "/musicappdemo/static/js/2.65aa1cca.chunk.js",
+  "static/js/2.65aa1cca.chunk.js.map": "/musicappdemo/static/js/2.65aa1cca.chunk.js.map",
+  "index.html": "/musicappdemo/index.html",
+  "precache-manifest.9ed71cd04852c015267a72ba42563dbd.js": "/musicappdemo/precache-manifest.9ed71cd04852c015267a72ba42563dbd.js",
+  "service-worker.js": "/musicappdemo/service-worker.js",
+  "static/css/main.781b43f8.chunk.css.map": "/musicappdemo/static/css/main.781b43f8.chunk.css.map"
 }
